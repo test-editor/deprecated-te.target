@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Build-Jdk: 1.6.0_45
+Built-By: genie.technology.nebula
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+
+Name: META-INF/maven/org.eclipse.nebula/org.eclipse.nebula.widgets.gri
+ d.feature/pom.properties
+SHA1-Digest: mP1h62BjkWpOYtpGEFWHeMz7ssU=
+
+Name: META-INF/maven/org.eclipse.nebula/org.eclipse.nebula.widgets.gri
+ d.feature/pom.xml
+SHA1-Digest: rUM6zgG731Tin05qOKDPHrXpTZ0=
+
+Name: feature.xml
+SHA1-Digest: ZWCGMsQG8EEA+xHuzD8pI4u8tTQ=
+
