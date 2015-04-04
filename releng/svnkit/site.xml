@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/svnkit_feature_1.0.0.201504041203.jar" id="svnkit_feature" version="1.0.0.201504041203"/>
+</site>

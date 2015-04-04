@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.eclipse.e4.rcp_1.3.101.v20150204-1353.jar" id="org.eclipse.e4.rcp" version="1.3.101.v20150204-1353" os="linux,macosx,win32" ws="cocoa,gtk,win32" arch="x86,x86_64"/>
+   <feature url="features/org.eclipse.e4.rcp.source_1.3.101.v20150204-1353.jar" id="org.eclipse.e4.rcp.source" version="1.3.101.v20150204-1353"/>
+   <feature url="features/org.eclipse.rcp_4.4.2.v20150204-1700.jar" id="org.eclipse.rcp" version="4.4.2.v20150204-1700" os="linux,macosx,win32" ws="cocoa,gtk,win32" arch="x86,x86_64"/>
+   <feature url="features/org.eclipse.rcp.configuration_1.0.3.v20150204-1745.jar" id="org.eclipse.rcp.configuration" version="1.0.3.v20150204-1745"/>
+   <feature url="features/org.eclipse.rcp.source_4.4.2.v20150204-1700.jar" id="org.eclipse.rcp.source" version="4.4.2.v20150204-1700"/>
+   <feature url="features/org.eclipse.nebula.widgets.grid.feature_1.0.0.201503111318.jar" id="org.eclipse.nebula.widgets.grid.feature" version="1.0.0.201503111318"/>
+   <feature url="features/org.eclipse.swtbot_2.2.2.201504020916.jar" id="org.eclipse.swtbot" version="2.2.2.201504020916"/>
+   <feature url="features/org.eclipse.emf.common_2.10.1.v20150123-0348.jar" id="org.eclipse.emf.common" version="2.10.1.v20150123-0348"/>
+   <feature url="features/org.eclipse.emf.ecore_2.10.2.v20150123-0348.jar" id="org.eclipse.emf.ecore" version="2.10.2.v20150123-0348"/>
+   <feature url="features/org.eclipse.equinox.p2.rcp.feature_1.2.0.v20140523-0116.jar" id="org.eclipse.equinox.p2.rcp.feature" version="1.2.0.v20140523-0116"/>
+   <feature url="features/org.eclipse.equinox.p2.rcp.feature.source_1.2.0.v20140523-0116.jar" id="org.eclipse.equinox.p2.rcp.feature.source" version="1.2.0.v20140523-0116"/>
+   <feature url="features/org.eclipse.equinox.executable_3.6.102.v20150204-1316.jar" id="org.eclipse.equinox.executable" version="3.6.102.v20150204-1316"/>
+   <feature url="features/org.eclipse.platform_4.4.2.v20150204-1700.jar" id="org.eclipse.platform" version="4.4.2.v20150204-1700"/>
+   <feature url="features/org.eclipse.platform.source_4.4.2.v20150204-1700.jar" id="org.eclipse.platform.source" version="4.4.2.v20150204-1700"/>
+   <feature url="features/org.testeditor.thirdpartybundles_feature_1.0.0.qualifier.jar" id="org.testeditor.thirdpartybundles_feature" version="1.0.0.qualifier"/>
+</site>
