@@ -16,6 +16,7 @@
 	<modules>
 		<module>../org.testeditor.releng.target.parent</module>
 		<module>../org.testeditor.releng.target.platform</module>
+		<module>../org.testeditor.releng.target.platform.nls</module>
 		<module>../org.testeditor.releng.target.thirdparty</module>
 		<module>../org.testeditor.releng.target.updatesite</module>
 		<module>../org.testeditor.releng.target.xtext</module>
