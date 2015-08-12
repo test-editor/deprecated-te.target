@@ -31,8 +31,13 @@
 			<layout>p2</layout>
 			<url>http://download.eclipse.org/technology/nebula/snapshot</url>
 		</repository>
+		<repository>
+			<id>babel</id>
+			<layout>p2</layout>
+			<url>http://download.eclipse.org/technology/babel/update-site/R0.12.1/luna</url>
+		</repository>
 
-		<!-- Thirdparty repositories -->
+		<!-- Other thirdparty repositories -->
 		<repository>
 			<id>subclipse</id>
 			<layout>p2</layout>
