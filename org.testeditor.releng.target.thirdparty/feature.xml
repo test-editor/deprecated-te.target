@@ -16,6 +16,10 @@ akquinet AG
 itemis AG
    </copyright>
 
+   <includes
+         id="org.tmatesoft.svnkit"
+         version="1.8.8.r10419_v20150407_1224"/>
+
    <plugin
          id="com.google.guava"
          download-size="0"

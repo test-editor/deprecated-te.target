@@ -26,6 +26,15 @@
 			<layout>p2</layout>
 			<url>http://download.eclipse.org/tools/orbit/downloads/drops/R20150124073747/repository/</url>
 		</repository>
+
+		<!-- Thirdparty repositories -->
+		<repository>
+			<id>subclipse</id>
+			<layout>p2</layout>
+			<url>http://subclipse.tigris.org/update_1.10.x</url>
+		</repository>
+
+		<!-- Xtext repositories -->
 		<repository>
 			<id>xtext</id>
 			<layout>p2</layout>
