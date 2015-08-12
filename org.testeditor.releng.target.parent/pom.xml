@@ -26,6 +26,11 @@
 			<layout>p2</layout>
 			<url>http://download.eclipse.org/tools/orbit/downloads/drops/R20150124073747/repository/</url>
 		</repository>
+		<repository>
+			<id>nebula</id>
+			<layout>p2</layout>
+			<url>http://download.eclipse.org/technology/nebula/snapshot</url>
+		</repository>
 
 		<!-- Thirdparty repositories -->
 		<repository>
