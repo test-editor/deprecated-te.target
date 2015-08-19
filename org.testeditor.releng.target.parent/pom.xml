@@ -34,7 +34,7 @@
 		<repository>
 			<id>babel</id>
 			<layout>p2</layout>
-			<url>http://download.eclipse.org/technology/babel/update-site/R0.12.1/luna</url>
+			<url>http://download.eclipse.org/technology/babel/update-site/R0.13.0/luna</url>
 		</repository>
 
 		<!-- Other thirdparty repositories -->
