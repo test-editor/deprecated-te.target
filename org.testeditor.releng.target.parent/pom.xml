@@ -16,10 +16,17 @@
 	<repositories>
 		<!-- Use specific p2-repositories instead of composite ones to speed up 
 			the build -->
+		<!-- 
 		<repository>
 			<id>luna</id>
 			<layout>p2</layout>
 			<url>http://download.eclipse.org/releases/luna/201502271000/</url>
+		</repository>
+-->
+		<repository>
+			<id>mars</id>
+			<layout>p2</layout>
+			<url>http://download.eclipse.org/releases/mars/</url>
 		</repository>
 		<repository>
 			<id>orbit</id>
@@ -34,7 +41,7 @@
 		<repository>
 			<id>babel</id>
 			<layout>p2</layout>
-			<url>http://download.eclipse.org/technology/babel/update-site/R0.13.0/luna</url>
+			<url>http://download.eclipse.org/technology/babel/update-site/R0.13.0/mars</url>
 		</repository>
 
 		<!-- Other thirdparty repositories -->
