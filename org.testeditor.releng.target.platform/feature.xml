@@ -29,6 +29,10 @@ itemis AG
          version="0.0.0"/>
 
    <includes
+         id="org.eclipse.platform.source"
+         version="0.0.0"/>
+
+   <includes
          id="org.eclipse.equinox.executable"
          version="0.0.0"/>
 
